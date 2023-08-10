@@ -3,7 +3,8 @@
   "version": "26.0.2",
   "main": "./font-src/index.js",
   "scripts": {
-    "build": "verda -f verdafile.mjs",
+    "build": "npm run build:core -- contents::iosevka-etor",
+    "build:core": "verda -f verdafile.mjs",
     "bump-ver": "node utility/update-package-json-version/index.mjs && npm install",
     "clean": "verda -f verdafile.mjs clean"
   },
