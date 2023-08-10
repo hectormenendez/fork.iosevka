@@ -1,0 +1,61 @@
+[buildPlans.iosevka-etor]
+family = "IosevkaEtor"
+spacing = "quasi-proportional"
+serifs = "sans"
+no-cv-ss = false
+export-glyph-names = true
+
+  [buildPlans.iosevka-etor.variants]
+  inherits = "ss04"
+
+    [buildPlans.iosevka-etor.variants.design]
+    capital-q = "crossing"
+    f = "flat-hook-tailed"
+    i = "zshaped"
+    j = "flat-hook-serifed"
+    l = "zshaped"
+    p = "earless-rounded-serifless"
+    q = "earless-corner-straight-serifless"
+    r = "hookless-serifless"
+    zero = "long-dotted"
+    two = "straight-neck"
+    asterisk = "turn-hex-low"
+    at = "compact"
+    dollar = "open"
+    percent = "dots"
+    lig-ltgteq = "slanted"
+    lig-neq = "more-slanted"
+    lig-equal-chain = "without-notch"
+    lig-hyphen-chain = "without-notch"
+    lig-double-arrow-bar = "without-notch"
+    lig-single-arrow-bar = "without-notch"
+
+  [buildPlans.iosevka-etor.ligations]
+  inherits = "purescript"
+
+[buildPlans.iosevka-etor.weights.extralight]
+shape = 200
+menu = 200
+css = 200
+
+[buildPlans.iosevka-etor.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.iosevka-etor.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.iosevka-etor.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.iosevka-etor.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
