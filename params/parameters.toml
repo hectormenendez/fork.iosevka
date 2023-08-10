@@ -9,7 +9,7 @@ naming.manufacturer = 'Belleve Invis'
 naming.designer = 'Belleve Invis'
 naming.description = 'Spatial efficient monospace font family for programming. Built from code. http://be5invis.github.io/Iosevka'
 
-leading = 1250     # Default line height times 1000.
+leading = 1000     # Default line height times 1000.
 descenderPad = 0   # Additional line height, added to descender.
 cap = 735          # Cap height.
 ascender = 735     # Ascender height.
