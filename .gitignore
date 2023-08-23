@@ -35,7 +35,6 @@ test/
 preview/
 .build/
 build/
-dist/
 ref/
 pages/
 releases/

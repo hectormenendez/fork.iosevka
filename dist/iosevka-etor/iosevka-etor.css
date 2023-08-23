@@ -1,0 +1,54 @@
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf/iosevka-etor-extralight.ttf') format('truetype'), url('woff2/iosevka-etor-extralight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf/iosevka-etor-extralightitalic.ttf') format('truetype'), url('woff2/iosevka-etor-extralightitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf/iosevka-etor-regular.ttf') format('truetype'), url('woff2/iosevka-etor-regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf/iosevka-etor-italic.ttf') format('truetype'), url('woff2/iosevka-etor-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf/iosevka-etor-semibold.ttf') format('truetype'), url('woff2/iosevka-etor-semibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'IosevkaEtor Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf/iosevka-etor-semibolditalic.ttf') format('truetype'), url('woff2/iosevka-etor-semibolditalic.woff2') format('woff2');
+}
